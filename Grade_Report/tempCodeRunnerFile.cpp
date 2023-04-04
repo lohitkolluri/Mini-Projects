@@ -32,13 +32,13 @@ struct student s[100];
 int n;
 int main()
 {
-    cout<<"---------------------------------------\n";
+    cout<<"====================================================\n";
 
-        cout<<" Student Grade Report System Using C++\n";
-		cout<<"       Made By Lohit & Alok\n\n";
-		cout<<" Welcome To Student Grade Report:\n";
+        cout<<"    Student Grade Report System Using C++\n";
+		cout<<"          Made By Lohit & Alok\n\n";
+		cout<<"    Welcome To Student Grade Report:\n";
 		
-	cout<<"---------------------------------------\n";
+	cout<<"====================================================\n";
 
 }
 
