@@ -49,3 +49,4 @@ Once your PR is reviewed and approved, your contributions will be merged.
 **Contributors List:**
 
 -   Lohit Kolluri
+-   Garvesh Singh Rathore
